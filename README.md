@@ -1,4 +1,4 @@
-# Audio Timestamp Marker
+# TimeSpace
 
 Plays the audio track from a video and writes SRT timestamp markers as you press the space bar.
 
